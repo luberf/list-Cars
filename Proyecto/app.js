@@ -1,0 +1,1 @@
+import "./componentes/product-cads.js";
